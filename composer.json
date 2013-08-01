@@ -1,6 +1,11 @@
 {
     "name": "rtablada/ordered-eloquent",
-    "description": "",
+    "description": "An extension of Eloquent ORM for automatically ordering results",
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "orm"
+    ],
     "authors": [
         {
             "name": "Ryan Tablada",
