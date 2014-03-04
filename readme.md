@@ -5,7 +5,7 @@ This package is no longer under active development. This was a quick fix for a s
 Installation
 --------------
 
-Add `'rtablada/ordered-eloquent': 'dev-master'` to your composer.json and extend `Rtablada\OrderedEloquent\Model`.
+Add `'rtablada/ordered-eloquent': '~1'` to your composer.json and extend `Rtablada\OrderedEloquent\Model`.
 
 You can also replace the `Eloquent` alias with `Rtablada\OrderedEloquent\Model` in your `app/config/app.php`.
 
