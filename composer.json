@@ -22,6 +22,5 @@
             "Rtablada\\OrderedEloquent": "src/"
         }
     },
-    "license": "MIT",
-    "minimum-stability": "dev"
+    "license": "MIT"
 }
