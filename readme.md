@@ -1,3 +1,7 @@
+**Warning**
+
+This package is no longer under active development. This was a quick fix for a submitted issue on the Laravel Repository. I will continue to keep an eye on Pull Requests, but will not be actively tracking issues.
+
 Installation
 --------------
 
